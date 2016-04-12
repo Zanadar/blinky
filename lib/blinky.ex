@@ -1,0 +1,2 @@
+defmodule Blinky do
+end
